@@ -10,9 +10,9 @@ Time: I spent around 5-6 hours on the exercise
  Optional: Using different images
  Optional: Tint of elements on changing percentages
  Optional: App icon and launc images
+ 
 Walkthrough of all the app stories:
 
-Video Walkthrough
 ![ScreenShot](https://github.com/doubleola/codepath-tip-calculator/blob/master/ola_tipCalculator.gif)
 
 
