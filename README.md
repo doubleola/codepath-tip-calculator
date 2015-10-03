@@ -5,12 +5,12 @@ Time: I spent around 5-6 hours on the exercise
 
 #What does the app can do?
 
- Required: The user can calculate the tip, using diferent percentages
- Optional: Playing with different animations: backgrounds, centers, alphas...
- Optional: Using different images
- Optional: Tint of elements on changing percentages
- Optional: App icon and launc images
- 
+-  Required: The user can calculate the tip, using diferent percentages
+-  Optional: Playing with different animations: backgrounds, centers, alphas...
+-  Optional: Using different images
+-  Optional: Tint of elements on changing percentages
+-  Optional: App icon and launc images
+
 Walkthrough of all the app stories:
 
 ![ScreenShot](https://github.com/doubleola/codepath-tip-calculator/blob/master/ola_tipCalculator.gif)
