@@ -13,7 +13,7 @@ Time: I spent around 5-6 hours on the exercise
 
 Walkthrough of all the app stories:
 
-![ScreenShot](https://github.com/doubleola/codepath-tip-calculator/blob/master/ola_tipCalculator.gif)
+![ScreenShot](https://github.com/doubleola/codepath-tip-calculator/blob/master/ola_carousel_assignment.gif)
 
 
 #What did I miss?
